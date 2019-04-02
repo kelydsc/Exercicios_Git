@@ -1,0 +1,41 @@
+História do Android:
+
+
+O Android é a plataforma móvel mais popular do mundo, seu uso é seguro, gerenciável e flexível.
+
+A segurança do Android é eficiente e integrada, fornecendo várias camadas de segurança com a inteligência do Google.
+
+A história do Android começou em outubro de 2003, na cidade de Palo Alto na Califórnia, quando Andy Rubin (foto), Rich Miner, Nick Sears e Chris White fundaram a Android, Inc. A empresa desenvolvia sistemas operacionais para celulares, mas todos os projetos eram secretos.
+
+Quase dois anos depois, em agosto de 2005, a Google anunciou a compra da Android, Inc. Esse foi um dos primeiros passos da empresa em direção ao mercado de softwares para dispositivos móveis.
+
+O primeiro aparelho Android, o HTC Dream G1, foi lançado no dia 22 de outubro de 2008. Ele possuía funcionalidades bastante avançadas para a época, como a janela de notificações, a integração profunda com o Gmail e o uma central para download de aplicativos: o Android Market.
+
+A versão 1.5 do Android foi liberada pela Google em abril de 2009, com o nome de Cupcake. Estavam entre as novidades do sistema operacional: o teclado virtual, os aplicativos de terceiros (milhares de apps criados por desenvolvedores), integração com o Youtube e capacidade de realizar os comandos copiar e colar.
+
+O Android 1.6 foi lançado no dia 16 de setembro de 2009, com o apelido de Donut (sempre um nome de doce, seguindo a ordem alfabética). Apesar de ser apenas uma evolução do Cupcake, ele apresentou grandes novidades, como uma caixa de pesquisa rápida, compatibilidade com câmeras, gravador de voz, galeria de fotos e indicador de nível de bateria.
+
+Apenas um mês depois, a Google anuncia o Android 2.1 (Eclair). Desta vez, o sistema operacional permitia o uso de múltiplas contas de e-mail, suporte a Bluetooth 2.1 e a HTML 5; além de apresentar novas ferramentas de calendário, navegação pelo Google Maps e papéis de parede animados e sensíveis ao toque.
+
+A Google lançou o Android 2.2 (Froyo) no dia 20 de maio de 2010. Entre as novidades, estava o aumento da velocidade na realização de tarefas, a opção de salvar aplicativos em cartões de memória, o controle pelo som da voz e a nova funcionalidade de roteamento de internet.
+
+O Android 2.3 Gingerbread foi lançado seis meses depois, no dia 06 de dezembro de 2010. A nova interface foi pensada para telas com maior dimensão, como as dos tablets, que já estavam ganhando o mercado. Além de oferecer suporte para chamadas pela internet (câmera frontal), o sistema operacional apresentou um teclado reformulado, a otimização das opções de edição (copiar, recortar e colar), o gerenciamento de bateria e a compatibilidade com NFC.
+
+Honeycomb, o esperado Android 3.0 foi lançado no dia 10 de maio de 2011. O sistema operacional foi reformulado novamente para ter mais compatibilidade com telas de tablets. Os maiores destaques da versão foram: a possibilidade de customização da tela principal e a opção de compartilhamento por bluetooth.
+
+A versão 4.0 (Ice Cream Sandwich) foi liberada no dia 19 de outubro de 2011 e, atualmente, é considerada a melhor plataforma móvel do mundo. O sistema operacional da Google passou a oferecer maior facilidade de compartilhamento de arquivos, calendário unificado, opções de alinhamento de câmera, desbloqueio por reconhecimento facial e um centro de análise de dados, valorizando a personalização e o controle do usuário.
+
+Jelly Bean (Android 4.1) em 9 de julho de 2012 foi quando o Jelly Bean começou a chegar, trazendo o Google Now como um precursor do Google Assistente. O Now permitia obter informações rápidas sobre o clima, por exemplo, tudo em tempo real assim como acontece hoje com o Assistente. Além disso, as notificações ficaram mais ricas, permitindo a expansão da janela para exibir mais notificações de uma só vez e o dispositivo funcionava para várias contas de usuários.
+
+KitKat (Android 4.4) começou a ser liberado em 15 de janeiro de 2014, unindo a utilidade do Google Now com melhorias na tecnologia de voz, aliando o melhor dos dois mundos. Assim, o usuário começou a dar comandos de voz para que o Now fosse capaz de fazer ainda mais ações com o comando "Ok Google", como por exemplo iniciar pesquisas, enviar mensagem de texto, ver rotas e reproduzir uma música.
+
+Lollipop (Android 5.0)  chegou no dia 3 de novembro de 2014, reunindo as novidades em funcionalidades do KitKat, mas trazendo o Material Design ao Android. Uma transparência totalmente nova facilitou a navegação pelos dispositivos smartphones, tablets, relógios, TVs e carros.
+
+Marshmallow (Android 6.0)  em 5 de outubro de 2015, chegou o Marshmallow, que representou outro próximo passo para a criação do Assistente como o conhecemos. O Now, aqui, foi aprimorado, permitindo simplesmente tocar e segurar o botão "home" para acioná-lo — eliminando a necessidade de se abrir manualmente o aplicativo para tal. Chegaram também, novos recursos de economia de bateria; entre eles, um que colocava automaticamente o dispositivo em estado de repouso quando em inatividade, e o App Standby, que limitava o impacto de apps usados com menos frequência na vida da bateria.
+
+Nougat (Android 7.0) Esta versão, que ainda é bastante popular, chegou em 22 de agosto de 2016. O Nougat melhorou a maneira de se usar o smartphone, adicionando várias janelas para permitir a execução de apps lado a lado, além de respostas instantâneas por meio das notificações, tamanho de exibição ajustável para melhor acessibilidade e melhor economia de dados, limitando a quantidade de dados usados por apps em segundo plano. O Modo VR chegou aqui também, possibilitando experiências de realidade virtual para apps, e chegaram ainda 63 novos emojis - todos com seis opções de tons de pele.
+
+Oreo (Android 8.0) em  21 de agosto de 2017 chegou o Oreo, que introduziu formas ainda mais simples de navegar em tarefas no smartphone (como o preenchimento automático para o acesso rápido de apps e o modo picture-in-picture). Com o Oreo, a experiência Android foi simplificada ainda mais graças a uma melhor coesão visual e gestos mais fáceis (como o deslizar da tela inicial para ver todos os aplicativos).
+E foi no Oreo em que a Google introduziu a versão Go do Android, otimizada especificamente para dispositivos de entrada que têm especificações mais simples. Dessa maneira, usuários "novatos" podem ter uma experiência Android rápida e poderosa, mesmo sem gastar muito dinheiro em um aparelho.
+
+Pie (Android 9.0) que chegou em 6 de agosto de 2018. Com esta versão, o sistema trouxe novas formas de o usuário controlar o seu bem-estar digital, descobrindo exatamente quanto tempo gasta em cada app e podendo configurar um temporizador para limitar o uso de determinados apps "viciantes".
